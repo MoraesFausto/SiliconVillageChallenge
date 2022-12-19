@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "445398913897",
+    "project_id": "silicon-village-challenge",
+    "storage_bucket": "silicon-village-challenge.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445398913897:android:874f43f136e2b31052e3f8",
+        "android_client_info": {
+          "package_name": "com.example.challengeproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "445398913897-ecj36hdacvo36trqmupkt1sctvo3r7sm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5ahqR_q7GHT_wCmoHbek2QORQTLDJcJo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "445398913897-ecj36hdacvo36trqmupkt1sctvo3r7sm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
